@@ -4,10 +4,10 @@ Product analytics and data science, with four years of product experience at Klo
 
 ## Selected projects
 
-- **[PersonaPath](link)** — dining recommender built on Yelp reviews (Spark, TF-IDF, embeddings, LLM explanations). TF-IDF beat LDA and sentence embeddings on every ranking metric in our evaluation.
+- **[PersonaPath](https://github.com/quinten168/PersonaPath-Dining-AI-Recommendation)** — dining recommender built on Yelp reviews (Spark, TF-IDF, embeddings, LLM explanations). TF-IDF beat LDA and sentence embeddings on every ranking metric in our evaluation.
 - **Project 2** — one line on the question, method, and result.
 - **Project 3** — one line on the question, method, and result.
 
 **Stack:** Python, SQL (BigQuery), Spark, Tableau, A/B testing, causal inference, recommender systems, NLP/LLMs
 
-**Contact:** [LinkedIn](link) · email
+**Contact:** [LinkedIn](https://www.linkedin.com/in/hsinkuei) · [quinten499@gmail.com](mailto:quinten499@gmail.com)
